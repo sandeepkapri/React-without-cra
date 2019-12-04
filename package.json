@@ -1,10 +1,9 @@
 {
-  "name": "seller",
+  "name": "React-without-cra",
   "version": "0.1.0",
-  "description": "Seller UI for ecom",
+  "description": "Setup React for Production and development from scratch without using CRA(create-react-app)",
   "author": "Sandeep Kapri",
   "license": "MIT",
-  "private": true,
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
